@@ -1318,6 +1318,7 @@ int main(){
                     system("cls");  
                     MostrarAsociados(ListaAsociados);
                     printf("\n");
+                    printf("");
                     system("pause");
                     break;
                 }
